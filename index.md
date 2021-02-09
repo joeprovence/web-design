@@ -3,6 +3,7 @@
 You can use the [editor on GitHub](https://github.com/joeprovence/web-design/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 About Salt Creative: 
+
 [Salt Creative](https://www.sltcreative.com) is a full-scale web design agency offering modern, mobile-optimized websites, a wide range of marketing and graphic design services for businesses of all types and sizes. Whether a well-seasoned, established business in Boise, and in need of a website overhaul, adding eCommerce solutions, upgrading for mobile, or starting something new, we can help with affordable solutions. Our [Boise web design](https://www.sltcreative.com/web-design-boise-idaho) team develops great-looking websites to establish an effective online presence. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
